@@ -1,0 +1,5 @@
+main.dSYM
+main
+*.disasm
+*.out
+*.txt

@@ -1,0 +1,9 @@
+[package]
+name = "kpc"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitflags = "1"
+libloading = "0.7"
+ouroboros = "0.13"

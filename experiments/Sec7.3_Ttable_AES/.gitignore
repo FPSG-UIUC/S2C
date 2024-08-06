@@ -1,0 +1,8 @@
+*
+!.gitignore
+!main.c
+!Makefile
+!plot.py
+!run.sh
+!sbox.h
+!/aes/
